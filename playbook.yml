@@ -4,10 +4,10 @@ site:
   start_page: ponysdk-v3::welcome.adoc
 content:
   sources:
-  - url: .
+  - url: https://github.com/thuhiensp/TestAntoraComponent1.git
     start_path: docs
     branches: master
-  - url: ../TestAntoraComponent2
+  - url: https://github.com/thuhiensp/TestAntoraComponent2.git
     branches: master
 ui:
   bundle:
