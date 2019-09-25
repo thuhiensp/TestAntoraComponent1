@@ -17,3 +17,4 @@ ui:
 output:
   dir: ./public
 # DOCSEARCH_ENABLED=true DOCSEARCH_ENGINE=lunr antora playbook.yml //command to run antorat.
+# npx serve //command to run webservice local.
